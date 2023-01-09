@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd5977cb-11e6-430f-88d5-948a6721b914" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="21Li5xV254oFGQyfreeOsuhU3mL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/project3uml" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Anthony\calpoly\cpe203\project3starter\project3uml" />
+      <recent name="C:\Users\Anthony\calpoly\cpe203\project3starter" />
+      <recent name="C:\Users\Anthony\calpoly\cpe203\project3starter\images" />
+      <recent name="C:\Users\Anthony\calpoly\cpe203\project3starter\project3starter" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Anthony\calpoly\cpe203\project3starter\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="VirtualWorld" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VirtualWorld" />
+      <module name="project3starter" />
+      <option name="PROGRAM_PARAMETERS" value="-fastest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd5977cb-11e6-430f-88d5-948a6721b914" name="Changes" comment="" />
+      <created>1637726588936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637726588936</updated>
+      <workItem from="1637726590118" duration="187000" />
+      <workItem from="1637726791355" duration="3522000" />
+      <workItem from="1637748509251" duration="1666000" />
+      <workItem from="1637751068533" duration="2597000" />
+      <workItem from="1637789540140" duration="1080000" />
+      <workItem from="1637798491073" duration="772000" />
+      <workItem from="1637807082886" duration="3014000" />
+      <workItem from="1637839326411" duration="69000" />
+      <workItem from="1637965995860" duration="643000" />
+      <workItem from="1638000847501" duration="1223000" />
+      <workItem from="1638003783067" duration="223000" />
+      <workItem from="1638132320337" duration="579000" />
+      <workItem from="1638144869956" duration="178000" />
+      <workItem from="1638145724317" duration="645000" />
+      <workItem from="1638183422779" duration="16000" />
+      <workItem from="1638225177671" duration="331000" />
+      <workItem from="1638232658466" duration="1304000" />
+      <workItem from="1638234191635" duration="5759000" />
+      <workItem from="1638240018020" duration="103000" />
+      <workItem from="1638240134288" duration="8000" />
+      <workItem from="1638240155659" duration="492000" />
+      <workItem from="1638240666052" duration="3122000" />
+      <workItem from="1638247820743" duration="4933000" />
+      <workItem from="1638254559766" duration="3107000" />
+      <workItem from="1638269083432" duration="2000" />
+      <workItem from="1638269189319" duration="311000" />
+      <workItem from="1638271761634" duration="1609000" />
+      <workItem from="1638273666626" duration="503000" />
+      <workItem from="1638274499041" duration="2869000" />
+      <workItem from="1638314215271" duration="611000" />
+      <workItem from="1638318982174" duration="920000" />
+      <workItem from="1638325876895" duration="1064000" />
+      <workItem from="1638329571554" duration="233000" />
+      <workItem from="1638335442079" duration="617000" />
+      <workItem from="1638347565097" duration="8284000" />
+      <workItem from="1638403811286" duration="719000" />
+      <workItem from="1638408590204" duration="5146000" />
+      <workItem from="1638413862122" duration="365000" />
+      <workItem from="1638414576132" duration="344000" />
+      <workItem from="1638414950173" duration="1040000" />
+      <workItem from="1638419290451" duration="1571000" />
+      <workItem from="1638421972595" duration="139000" />
+      <workItem from="1638437777332" duration="1262000" />
+      <workItem from="1638440525480" duration="259000" />
+      <workItem from="1638461516473" duration="4164000" />
+      <workItem from="1638485220539" duration="11783000" />
+      <workItem from="1638530025972" duration="2979000" />
+      <workItem from="1638533047728" duration="70000" />
+      <workItem from="1638533133054" duration="880000" />
+      <workItem from="1638574215568" duration="797000" />
+      <workItem from="1638575034977" duration="491000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
