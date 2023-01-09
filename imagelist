@@ -1,0 +1,60 @@
+ammo images/ammo.png 255 255 255 0
+ammo images/ammo2.png
+ammo images/ammo3.png
+ammo images/ammo4.png
+ammo images/ammo5.png
+ammo images/ammo6.png
+ammo images/ammo7.png
+omen images/omen.png 255 255 255 0
+omen images/omen2.png 255 255 255 0
+omen images/omen3.png 255 255 255 0
+omen images/omen4.png 255 255 255 0
+omen images/omen5.png 255 255 255 0
+omen images/omen6.png 255 255 255 0
+omen images/omen7.png 255 255 255 0
+omen images/omen8.png 255 255 255 0
+omen images/omen9.png 255 255 255 0
+omen images/omen10.png 255 255 255 0
+omen images/omen11.png 255 255 255 0
+kayo images/kayoout01.bmp 255 255 255 128
+kayo images/kayoout02.bmp 255 255 255 128
+kayo images/kayoout03.bmp 255 255 255 128
+kayo images/kayoout04.bmp 255 255 255 128
+kayo images/kayoout05.bmp 255 255 255 128
+kayo images/kayoout06.bmp 255 255 255 128
+kayo images/kayoout07.bmp 255 255 255 128
+kayo images/kayoout08.bmp 255 255 255 128
+kayo images/kayoout09.bmp 255 255 255 128
+kayo images/kayoout10.bmp 255 255 255 128
+kayo images/kayoout11.bmp 255 255 255 128
+viper images/viperout01.png 255 255 255 128
+viper images/viperout02.png 255 255 255 128
+viper images/viperout03.png 255 255 255 128
+viper images/viperout04.png 255 255 255 128
+viper images/viperout05.png 255 255 255 128
+viper images/viperout06.png 255 255 255 128
+viper images/viperout07.png 255 255 255 128
+viper images/viperout08.png 255 255 255 128
+viper images/viperout09.png 255 255 255 128
+viper images/viperout10.png 255 255 255 128
+viper images/viperout11.png 255 255 255 128
+back images/background.bmp 255 255 255 0
+skye images/s1.bmp 255 255 255 0
+skye images/s2.bmp 255 255 255 0
+skye images/s3.bmp 255 255 255 0
+skye images/s4.bmp 255 255 255 0
+skye images/s5.bmp 255 255 255 0
+obstacle images/wall.png
+brim images/brim.bmp 255 255 255 0
+quake images/quake1.bmp 255 255 255 0
+quake images/quake2.bmp 255 255 255 0
+quake images/quake3.bmp 255 255 255 0
+quake images/quake4.bmp 255 255 255 0
+quake images/quake5.bmp 255 255 255 0
+quake images/quake6.bmp 255 255 255 0
+bubbles images/bubbles.bmp
+battery images/battery.bmp 255 255 255 0
+spike images/spike.bmp 255 255 255 0
+background_default images/none.bmp
+test_background images/detained.bmp
+background images/white.png

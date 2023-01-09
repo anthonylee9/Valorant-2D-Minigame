@@ -1,0 +1,27 @@
+Include a text file named WORLD_EVENT.txt in your submission that describes:
+NOTE: might be helpful to google Brim, Skye, Kayo, Omen, Spike, Viper in order to know what
+is what in the game
+
+Game Explanation: You are a villain called Viper! You cause chaos to the world.
+Roam around the map and explore, but be careful! If you run into an occupied place,
+you are dead. (is buggy)
+
+1. how to trigger the event
+Mouseclick on the tiles
+
+2. what should happen when the event is triggered
+A fire is spread across 4 tiles, an omen is spawned to go steal spike objects
+
+3. what the affected entities should do
+Event doesn't affect entities, couldn't figure out this part,
+entity wasn't transforming with the mouseclick
+
+4. what the new entity is and how it should behave
+A Omen is spawned and it behaves by searching for Spike objects around the map in order
+to consume the objects
+
+5. (if applicable) the names of each partner and what each partner was responsible for:
+Anthony Lee: Changing original game images, Omen and Spike Class, changing
+background tiles on mouse click.
+Cindy Huang: Viper Class and cursor movement, omen spawn with mouse click.
+We both worked on other parts of the code together and debugged things or at least tried to
